@@ -1,0 +1,31 @@
+.main-list-component{
+    width: 500px;
+    border: 2px solid black;
+    height: 100%;
+    margin-left: 10px;
+    margin-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.written-food{
+    height: 20px;
+    margin-left: 20px;
+}
+
+.list-upper{
+    margin-left: 20px;
+}
+
+select{
+    margin: 0px 20px 0px 20px;
+    width: 120px;
+    border: none;
+    border-bottom: 1px solid grey;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 3px;
+}
+
+p{
+    height: 10px;
+}

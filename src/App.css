@@ -1,0 +1,12 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 650px;
+    margin-top: 20px;
+}
